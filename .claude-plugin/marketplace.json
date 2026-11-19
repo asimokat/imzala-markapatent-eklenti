@@ -1,0 +1,15 @@
+{
+  "name": "imzala-markapatent",
+  "owner": {
+    "name": "imzala.net",
+    "url": "https://marka.imzala.net"
+  },
+  "description": "Marka ve patent vekilleri ile fikrî ve sınaî haklar avukatları için imzala.net Claude eklentisi.",
+  "plugins": [
+    {
+      "name": "imzala-markapatent",
+      "source": "./",
+      "description": "TÜRKPATENT Resmî Bültenleri (yayım tarihi ↔ SMK itiraz son günü ↔ tam metin) ve 11,6 milyonluk Yargıtay 11. HD / HGK / FSHHM içtihat arşivi bağlayıcısı; sınai mülkiyet araştırması ve yayına/YİDK kararlarına itiraz yazımı skill'leri."
+    }
+  ]
+}

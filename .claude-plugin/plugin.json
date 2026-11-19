@@ -1,0 +1,19 @@
+{
+  "name": "imzala-markapatent",
+  "displayName": "imzala.net Marka & Patent",
+  "version": "0.1.0",
+  "description": "GÜNLÜK GÜNCELLENİR, HEP TAZE. Marka ve patent vekilleri ile FSHHM avukatları için TÜRKPATENT Resmî Bültenleri (919 bülten + 6769 s. SMK yayına itiraz süreleri + tam metin araması) ve 11,6 milyonluk içtihat arşivini (Yargıtay 11. HD, HGK, FSHHM, BAM) Claude'a bağlar; marka/patent araştırması ve yayına/YİDK'ya itiraz yazımı için iki skill içerir.",
+  "author": {
+    "name": "imzala.net",
+    "url": "https://marka.imzala.net"
+  },
+  "homepage": "https://marka.imzala.net/turkpatent",
+  "repository": "https://github.com/asimokat/imzala-markapatent-eklenti",
+  "license": "MIT",
+  "keywords": ["türkpatent", "marka", "patent", "tasarım", "coğrafi işaret", "smk", "yidk", "fshhm", "içtihat", "imzala"],
+  "icon": "./assets/imzala-markapatent-512.png",
+  "documentationUrl": "https://marka.imzala.net/yapay-zeka",
+  "supportUrl": "https://imzala.net/yardim",
+  "privacyPolicyUrl": "https://imzala.net/api-gizlilik",
+  "termsOfServiceUrl": "https://imzala.net/api-kosullar"
+}
